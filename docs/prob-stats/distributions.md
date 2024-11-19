@@ -1,0 +1,5 @@
+---
+title: Distributions
+---
+
+# Normal Distribution
